@@ -1,0 +1,32 @@
+{
+  "manifest_version": 2,
+  "version": "1.0",
+  "name": "h1treX",
+  "theme": {
+    "images": {
+      "additional_backgrounds": [
+        "images/0.jpg"
+      ]
+    },
+    "properties": {
+      "additional_backgrounds_alignment": [
+        "center top"
+      ],
+      "additional_backgrounds_tiling": [
+        "no-repeat"
+      ]
+    },
+    "colors": {
+      "toolbar": "rgba(19, 15, 21, 0.8)",
+      "toolbar_text": "rgb(255, 255, 255)",
+      "frame": "rgb(225, 86, 193)",
+      "tab_background_text": "rgb(255, 255, 255)",
+      "toolbar_field": "rgb(225, 117, 255)",
+      "toolbar_field_text": "rgb(2, 1, 2)",
+      "tab_line": "rgb(208, 49, 255)",
+      "popup": "rgb(2, 1, 2)",
+      "popup_text": "rgb(243, 116, 255)",
+      "tab_loading": "rgb(208, 49, 255)"
+    }
+  }
+}
